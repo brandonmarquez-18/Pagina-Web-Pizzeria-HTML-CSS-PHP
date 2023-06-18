@@ -1,0 +1,25 @@
+
+
+ 
+
+  #navbarDropdownMenuLink:hover{
+      color: rgb(227, 0, 27);
+  }
+
+#centrar{
+  margin: 0 auto;
+ 
+}
+ul li{
+  width: 310px;
+}
+#espacio{
+  width: 350px; 
+}
+
+#hover:hover{
+  filter:contrast(250%);
+}
+
+    
+  
